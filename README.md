@@ -18,7 +18,7 @@ This project focuses on analyzing a bank's marketing dataset to understand custo
 ### User Instructions
 
 1.	Installation:
-* Clone the repository: git clone https://github.com/yourusername/bank-marketing-data-analysis.git
+* Clone the repository: git clone [https://github.com/yourusername/bank-marketing-data-analysis.git](https://github.com/TimmyTonyY/Bank-Marketing-Exploratory-Data-Analysis/tree/main)
 *	Navigate to the project directory: cd [bank-marketing-data-analysis](https://github.com/TimmyTonyY/Bank-Marketing-Exploratory-Data-Analysis/blob/main/bank.ipynb)
 *	Install the required libraries: pip install -r requirements.txt
 2.	Running the Project:
